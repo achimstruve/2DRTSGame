@@ -1,0 +1,1 @@
+[https://sanderfrenken.github.io/Universal-LPC-Spritesheet-Character-Generator/#?body=Body_color_olive&head=Human_male_olive&sex=male&shadow=Shadow_shadow&arms=Armour_steel&bauldron=Bauldron_brown&shoulders=Legion_bronze&clothes=Collared_longsleeve_formal&legs=Armour_steel](Character Creation)
